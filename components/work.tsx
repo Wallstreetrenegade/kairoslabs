@@ -15,13 +15,6 @@ export function Work() {
       metrics: "500K+ followers in 6 months",
     },
     {
-      title: "Smart Recommendations Engine",
-      category: "AI Development",
-      description: "Machine learning-powered product recommendations increasing average order value by 85%",
-      image: "/ai-machine-learning-dashboard-interface.jpg",
-      metrics: "85% increase in AOV",
-    },
-    {
       title: "Athletic Wear Campaign",
       category: "Video Ads",
       description: "High-converting video ad series for Meta and YouTube driving 12x ROAS",
@@ -34,13 +27,6 @@ export function Work() {
       description: "End-to-end digital transformation: custom Shopify Plus build, SEO, paid ads, and content strategy",
       image: "/home-decor-interior-design-website.jpg",
       metrics: "$2M+ monthly revenue",
-    },
-    {
-      title: "AI Chatbot Integration",
-      category: "AI Development",
-      description: "24/7 intelligent customer service bot handling 10K+ conversations monthly with 94% satisfaction",
-      image: "/ai-chatbot-interface-customer-service.jpg",
-      metrics: "94% customer satisfaction",
     },
   ]
 

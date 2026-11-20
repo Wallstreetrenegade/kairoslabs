@@ -19,8 +19,8 @@ export function Hero() {
             </h1>
 
             <p className="mb-6 max-w-lg text-base leading-7 text-zinc-200 text-pretty lg:text-lg">
-              Kairos Technology Labs transforms ambitious ideas into powerful digital products through intelligent
-              software, AI solutions, and growth-focused technology.
+              Kairos Technology Labs transforms ambitious ideas into powerful digital products through modern
+              software, custom development, and growth-focused technology.
             </p>
 
           </div>

@@ -49,7 +49,7 @@ const pricingTiers = [
     description: "Comprehensive growth package",
     features: [
       "Full ecommerce platform",
-      "AI chatbot integration",
+      "Customer support integration",
       "10 video ads + editing",
       "Advanced social media management",
       "Conversion optimization",
@@ -61,7 +61,7 @@ const pricingTiers = [
     name: "Enterprise",
     description: "Complete digital transformation",
     features: [
-      "Custom AI-powered platform",
+      "Custom business platform",
       "Full-service marketing agency",
       "Unlimited video production",
       "Omnichannel social management",
@@ -77,7 +77,7 @@ const pricingTiers = [
     features: [
       "Fully customized services",
       "Dedicated team assignment",
-      "Enterprise-level AI solutions",
+      "Enterprise technology solutions",
       "Unlimited revisions",
       "Custom integrations",
       "Ongoing maintenance",

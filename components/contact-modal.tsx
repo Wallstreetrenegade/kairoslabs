@@ -116,7 +116,7 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
             >
               <option value="">Select a service...</option>
               <option value="web-development">Web Development</option>
-              <option value="ai-development">AI Development</option>
+              <option value="ecommerce-development">Ecommerce Development</option>
               <option value="marketing">Digital Marketing</option>
               <option value="video-ads">Video Ads</option>
               <option value="social-media">Social Media Management</option>

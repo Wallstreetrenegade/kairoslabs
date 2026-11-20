@@ -16,7 +16,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li><a href="/#services" className="transition-colors hover:text-foreground">Marketing</a></li>
               <li><a href="/#services" className="transition-colors hover:text-foreground">Web Development</a></li>
-              <li><a href="/#services" className="transition-colors hover:text-foreground">AI Solutions</a></li>
+              <li><a href="/#services" className="transition-colors hover:text-foreground">Ecommerce Solutions</a></li>
               <li><a href="/#services" className="transition-colors hover:text-foreground">Video Production</a></li>
             </ul>
           </div>

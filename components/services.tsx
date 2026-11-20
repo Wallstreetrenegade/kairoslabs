@@ -1,5 +1,5 @@
 import { Card } from "@/components/ui/card"
-import { Code2, Brain, Video, Share2, ShoppingCart, Zap } from "lucide-react"
+import { Code2, Store, Video, Share2, ShoppingCart, Zap } from "lucide-react"
 
 export function Services() {
   const services = [
@@ -16,10 +16,10 @@ export function Services() {
         "Lightning-fast, scalable platforms built with modern frameworks. Custom web applications, e-commerce sites, and seamless integrations.",
     },
     {
-      icon: Brain,
-      title: "AI Development",
+      icon: Store,
+      title: "Ecommerce Solutions",
       description:
-        "Intelligent automation and personalization. AI-powered product recommendations, chatbots, inventory forecasting, and customer insights.",
+        "Conversion-focused online stores with secure checkout, inventory integrations, customer portals, and streamlined order management.",
     },
     {
       icon: Video,

@@ -30,10 +30,6 @@ export function Stats() {
       href: "https://wificode.dev/",
     },
     {
-      name: "AI Revolution",
-      href: "https://airevolution.dev/",
-    },
-    {
       name: "Push Profit Pro",
       href: "https://pushprofit.pro/",
     },
@@ -53,7 +49,7 @@ export function Stats() {
         </div>
 
         <div className="mt-12 border-t border-border pt-10">
-          <div className="grid gap-4 md:grid-cols-3">
+          <div className="grid gap-4 md:grid-cols-2">
             {offers.map((offer) => (
               <a
                 key={offer.name}

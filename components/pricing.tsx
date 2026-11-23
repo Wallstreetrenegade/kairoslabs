@@ -27,7 +27,7 @@ const pricingTiers = [
       "Custom responsive website",
       "Social media content calendar",
       "3 video ads (short & long-form)",
-      "Basic SEO optimization",
+      "Website performance optimization",
       "Priority email support",
       "2 week delivery",
     ],

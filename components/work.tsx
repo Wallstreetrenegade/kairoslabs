@@ -24,7 +24,7 @@ export function Work() {
     {
       title: "Home Decor Empire",
       category: "Full-Service Marketing",
-      description: "End-to-end digital transformation: custom Shopify Plus build, SEO, paid ads, and content strategy",
+      description: "End-to-end digital transformation: custom Shopify Plus build, conversion strategy, paid ads, and content planning",
       image: "/home-decor-interior-design-website.jpg",
       metrics: "$2M+ monthly revenue",
     },

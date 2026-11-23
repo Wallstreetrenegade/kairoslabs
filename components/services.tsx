@@ -7,7 +7,7 @@ export function Services() {
       icon: ShoppingCart,
       title: "Digital Marketing",
       description:
-        "Data-driven strategies that convert browsers into buyers. SEO, PPC, email campaigns, and conversion optimization tailored for your business.",
+        "Data-driven strategies that convert browsers into buyers. Content marketing, PPC, email campaigns, and conversion optimization tailored for your business.",
     },
     {
       icon: Code2,

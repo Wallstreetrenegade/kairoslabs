@@ -9,6 +9,7 @@ import { ContactModal } from "@/components/contact-modal"
 const pricingTiers = [
   {
     name: "Starter",
+    price: "$500",
     description: "Perfect for small businesses getting started",
     features: [
       "Basic website setup",
@@ -20,6 +21,7 @@ const pricingTiers = [
   },
   {
     name: "Growth",
+    price: "$1,500",
     description: "Scale your ecommerce presence",
     features: [
       "Custom responsive website",
@@ -32,6 +34,7 @@ const pricingTiers = [
   },
   {
     name: "Professional",
+    price: "$2,500",
     description: "Enhanced digital marketing suite",
     features: [
       "Advanced website with CMS",
@@ -46,6 +49,7 @@ const pricingTiers = [
   },
   {
     name: "Business",
+    price: "$3,000–$5,000",
     description: "Comprehensive growth package",
     features: [
       "Full ecommerce platform",
@@ -59,6 +63,7 @@ const pricingTiers = [
   },
   {
     name: "Enterprise",
+    price: "$5,500+",
     description: "Complete digital transformation",
     features: [
       "Custom business platform",
@@ -73,6 +78,7 @@ const pricingTiers = [
   },
   {
     name: "Custom",
+    price: "Call for details",
     description: "Tailored solutions for unique needs",
     features: [
       "Fully customized services",
@@ -123,6 +129,7 @@ export function Pricing() {
 
                 <div className="mb-6">
                   <h3 className="text-2xl font-bold mb-2">{tier.name}</h3>
+                  <p className="mb-3 text-3xl font-bold tracking-tight text-primary">{tier.price}</p>
                   <p className="text-muted-foreground text-balance">{tier.description}</p>
                 </div>
 
